@@ -1,0 +1,74 @@
+1) Why do you like to join as a Software developer?
+
+=>  * Creativity in code: I enjoy expressing creativity through programming, turning ideas into functional software.
+
+    * Continuous learning: The IT field evolves rapidly, and I'm eager to learn new technologies and stay updated in this dynamic industry.
+
+    * Impactful work: I want to create applications that make a positive impact on people's lives or streamline processes.
+
+    * Team collaboration: I look forward to collaborating with other developers, learning from experienced professionals, and contributing to a team's success.
+   
+    * I love the challenge: Solving problems and overcoming coding challenges excites me. It's like solving puzzles every day.
+
+    * Future-proof career: With technology becoming increasingly integral to our lives, a career in IT offers stability and promising growth opportunities.
+
+2) List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+ 
+=> 1) VS Code (Visual Studio Code):
+        Reason: VS Code inspires me due to its simplicity and powerful features. It provides a smooth development experience with an intuitive interface,
+         a vast array of extensions, and robust debugging capabilities. Its versatility makes coding enjoyable and efficient.
+   2) GitHub:
+        Reason: GitHub is inspiring as a collaborative platform that fosters teamwork and innovation. Its version control system allows
+        developers to work seamlessly on projects, contributing collectively to create something greater than the sum of its parts.
+        The open-source nature of GitHub promotes knowledge sharing and community-driven development, which I find motivating.
+   3) MySQL:
+        Reason: MySQL is inspiring because it forms the backbone of many applications, handling data with efficiency and reliability.
+        Its role in managing databases is crucial for data-driven applications, and understanding how to work with MySQL opens up
+        opportunities to build robust and scalable systems. The simplicity and effectiveness of MySQL make it a fundamental tool in the IT landscape.
+
+3) List top 3 organisations you like to join in your career & why you like these organisations
+    I would like to join a startup to contribute directly to its growth, leverage diverse experiences,
+    and be part of an innovative environment where my impact can make a meaningful difference.
+=> 1)Zepto:
+         Zepto is India's fastest-growing e-grocery company, gaining prominence globally for its efficient digital grocery solutions.
+        Joining Zepto would mean contributing to the dynamic and rapidly expanding sector of e-grocery, playing a role in the company's success story.
+
+   2)BluSmart:
+         Gurugram, Haryana based BluSmart is India's first and leading all-electric ride-hailing mobility service. 
+        They are on a mission to steer urban India towards a sustainable means of transportation and to provide them efficient,
+        affordable, intelligent, safe and reliable mobility. They are India's first and largest zero-emission ride-hailing service 
+        and platform with a mission to build mobility smarter, safer, cleaner and more sustainable for a better future.
+
+   3)Sprinto: 
+        Sprinto is a Bengaluru-based compliance automation platform for software-as-a-service (SaaS) companies.
+        The fact that Sprinto has already acquired hundreds of customers, including enterprise-level accounts like HP and Hackerrank.
+        Working at Sprinto provides an opportunity to contribute to the creation and improvement of real-time monitoring systems. 
+       
+4) How you position yourself in this industry after 2 years.
+=> In two years, I aim to be a skilled and adaptable professional in the tech industry, having gained hands-on experience,
+   specialized knowledge, and a reputation for reliability and continuous learning.
+
+5) List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same.
+=> 1) Hospital management sytem - 
+        I implemented session-based authentication to enhance the system's security and user authentication process. 
+        Leveraging my expertise, I ensured the creation of secure sessions upon user login, utilizing cookies to manage 
+        and validate session IDs for subsequent requests. My focus on secure logout mechanisms involved systematically 
+        destroying server-side sessions and clearing client-side session IDs. Throughout the development, I prioritized the 
+        implementation of HTTPS to safeguard the transmission of sensitive session data, contributing to a robust and user-friendly
+        authentication experience within the backend infrastructure.
+
+   2) Application for finding PG/Rooms - 
+        I want to dvelop an innovative application designed to simplify the search for PGs, rooms, and flats in preferred areas.
+        Users will have access to comprehensive property details, including high-quality videos, photos, nearby area information,
+        and precise map locations. Similar to the convenience offered by CARS24 for cars, my app streamlines the process of finding 
+        suitable accommodations. Property owners can effortlessly upload photos and videos, providing real-time availability updates 
+        or their PGs or rooms. This user-friendly platform aims to revolutionize the way individuals discover and secure housing options,
+        enhancing the overall experience for both seekers and property owners alike.
+
+    3) Track Job Application – 
+       an efficient solution for students navigating the complex job application process across various platforms. 
+       This tool simplifies the tracking of applications, ensuring that each submission and corresponding resume are stored systematically. 
+       Now, users can effortlessly monitor their job search journey, receive timely notifications on application progress, 
+       and access comprehensive details about the submitted data. Say goodbye to the hassle of managing multiple resumes and 
+       forgetting crucial application specifics – the Track Job Application is here to streamline and enhance your job-seeking experience.
+       
