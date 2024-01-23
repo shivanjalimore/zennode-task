@@ -69,6 +69,5 @@
        an efficient solution for students navigating the complex job application process across various platforms. 
        This tool simplifies the tracking of applications, ensuring that each submission and corresponding resume are stored systematically. 
        Now, users can effortlessly monitor their job search journey, receive timely notifications on application progress, 
-       and access comprehensive details about the submitted data. Say goodbye to the hassle of managing multiple resumes and 
-       forgetting crucial application specifics – the Track Job Application is here to streamline and enhance your job-seeking experience.
+       and access comprehensive details about the submitted data. 
        
